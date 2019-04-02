@@ -709,6 +709,10 @@ ul.sub-menu li a {
   padding: 45px;
   z-index: 4;
 }
+
+.img .home-portfolio-image {
+  margin-bottom: 1rem;
+}
 .img .overlay-thumb {
   position: absolute;
   top: 0;
